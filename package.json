@@ -2,7 +2,7 @@
   "name": "administrador-de-turnos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JoseAlvarezMartinez.github.io/administrador-de-turnos/build",
+  "homepage": "https://josealvarezmartinez.github.io/administrador-de-turnos/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
